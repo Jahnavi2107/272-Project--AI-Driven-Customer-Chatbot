@@ -25,7 +25,7 @@ AI Engine: The chatbot uses NLP services to understand and respond to customer q
 Backend (Spring Boot/Flask): Manages API calls, retrieves data from the database, and sends responses.  
 Database: Stores historical chat logs and interactions.  
 Optional Analytics: Data from conversations can be analyzed to improve chatbot performance and customer satisfaction.
-
+![image](https://github.com/user-attachments/assets/da94521c-2404-4d69-b9ed-b95685686442)
 
 **Explanation**    
 Chat Interface: The chatbot interface (React or Angular) allows users to enter queries, which are passed to the backend.  
