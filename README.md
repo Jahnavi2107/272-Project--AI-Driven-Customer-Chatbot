@@ -110,6 +110,6 @@ The chatbot is deployed on Heroku for easy scalability and accessibility.
 ---
 
 ## **Contributors**  
-- **[Himaswetha]** - Backend and Database
-- **[Jahnavi Burla]** - Frontend Development Deployment  
-- **[Your Teammate's Name]** - Database and Integration  
+- **Himaswetha** - Backend and Database
+- **Jahnavi Burla** - Frontend Development and Deployment  
+- **Vinuta and Harshitha** - Database, Dialogflow and Integration  
