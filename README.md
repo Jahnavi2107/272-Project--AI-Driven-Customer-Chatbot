@@ -44,6 +44,7 @@ This chatbot is tailored for the airline industry, offering:
 3. **Backend (Flask):**  
    - Manages API endpoints for flight search, PNR verification, and chat interactions.  
 4. **Database (MySQL):** Stores flight information, PNR data.
+![image](https://github.com/user-attachments/assets/22698d0a-877f-4bb0-a9b5-36dc5ee7f90b)
 ---
 
 ## **Explanation**  
