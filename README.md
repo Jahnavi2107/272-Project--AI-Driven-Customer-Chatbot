@@ -4,7 +4,9 @@ The AI Chatbot for Flight Customer Support is designed to automate customer inte
 
 ---
 Deployement Link: https://rad-crumble-2cf4a6.netlify.app/
+
 Report Link: https://drive.google.com/file/d/1sRNeP3qG2GJPkdg9zhB5IFyDuTtgPRxE/view?usp=sharing
+
 ---
 ## **Project Overview**  
 This chatbot is tailored for the airline industry, offering:
