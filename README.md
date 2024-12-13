@@ -52,54 +52,6 @@ This chatbot is tailored for the airline industry, offering:
 2. **NLP Processing:** The backend connects to Dialogflow for interpreting user input and identifying intents.  
 3. **Data Retrieval:** Based on the identified intent, the backend queries the MySQL database for relevant information (e.g., flights, PNR details).  
 4. **Response Generation:** The backend formats the retrieved data and sends it to the chatbot interface. If the query is unresolved, it escalates to human support.
-
----
-
-## **Deployment**  
-### **Using Heroku**  
-The chatbot is deployed on Heroku for easy scalability and accessibility.  
-
-### **Steps to Deploy on Heroku:**  
-1. **Prepare the Application:**
-   - Ensure all dependencies are listed in `requirements.txt`.
-   - Include a `Procfile` to define the entry point of the Flask app:
-     ```plaintext
-     web: python app.py
-     ```
-
-2. **Set Up the Heroku Environment:**
-   - Install the Heroku CLI.
-   - Log in to Heroku:
-     ```bash
-     heroku login
-     ```
-
-3. **Deploy the Application:**
-   - Initialize a Git repository (if not already done):
-     ```bash
-     git init
-     ```
-   - Add and commit all changes:
-     ```bash
-     git add .
-     git commit -m "Initial Heroku Deployment"
-     ```
-   - Create a Heroku app:
-     ```bash
-     heroku create
-     ```
-   - Push the application to Heroku:
-     ```bash
-     git push heroku main
-     ```
-   - Set environment variables (e.g., database credentials, Dialogflow keys) using:
-     ```bash
-     heroku config:set KEY=VALUE
-     ```
-
-4. **Access the Deployed App:**
-   - Use the provided Heroku app URL to access your chatbot.
-
 ---
 
 ## **Future Enhancements**  
